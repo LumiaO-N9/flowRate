@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/flowRate_combine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_combine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_compute/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_compute/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_kafkaConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowRate_kafkaConsumer/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
